@@ -1,0 +1,12 @@
+﻿<Patch>
+
+<Operation Class="PatchOperationAdd">
+	<xpath>/ThingDefs/ThingDef[defName = "Gun_Minigun"]/verbs/li</xpath>
+	<value>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+	</value>
+</Operation>
+
+</Patch>
