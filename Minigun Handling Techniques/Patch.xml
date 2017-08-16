@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+<Operation Class="PatchOperationAdd">
+	<xpath>/ThingDefs/ThingDef[defName="Bullet_Minigun"]/projectile</xpath>
+	<value>
+				<explosionRadius>2.4</explosionRadius>
+	</value>
+</Operation>
+
+<Operation Class="PatchOperationAdd">
+	<xpath>/ThingDefs/ThingDef[defName="Gun_Minigun"]/verbs/li</xpath>
+	<value>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+	</value>
+</Operation>
+
+</Patch>
