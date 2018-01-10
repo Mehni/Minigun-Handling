@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Minigun Handling Techniques, Vol. 3</name>
 	<author>Mehni</author>
-	<targetVersion>0.17.0</targetVersion>
-	<url>https://github.com/Mehni/Minigun-Handling/releases/latest</url>
-	<description>Aim the minigun wherever you please. Target not required</description>
+	<targetVersion>0.18.0</targetVersion>
+	<url>https://ludeon.com/forums/index.php?topic=35832</url>
+	<description>v0.18.0.1 Targeting with the minigun now highlights the area in which the bullets will land.</description>
 </ModMetaData>
